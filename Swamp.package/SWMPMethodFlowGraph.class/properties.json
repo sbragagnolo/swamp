@@ -1,0 +1,16 @@
+{
+	"category" : "Swamp",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"startBlock",
+		"returnBlock",
+		"exceptionBlock" ],
+	"name" : "SWMPMethodFlowGraph",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

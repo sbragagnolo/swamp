@@ -1,0 +1,14 @@
+{
+	"category" : "Swamp",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SWMPOperationBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

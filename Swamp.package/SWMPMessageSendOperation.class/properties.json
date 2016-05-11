@@ -1,0 +1,16 @@
+{
+	"category" : "Swamp",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selector",
+		"receiver",
+		"arguments" ],
+	"name" : "SWMPMessageSendOperation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

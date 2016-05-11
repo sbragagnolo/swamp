@@ -1,0 +1,16 @@
+{
+	"category" : "Swamp",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"inputArguments",
+		"operations",
+		"exits" ],
+	"name" : "SWMPBlock",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

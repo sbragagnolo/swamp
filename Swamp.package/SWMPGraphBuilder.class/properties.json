@@ -1,0 +1,14 @@
+{
+	"category" : "Swamp",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"abstractInterpreter" ],
+	"name" : "SWMPGraphBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

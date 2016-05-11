@@ -1,0 +1,14 @@
+{
+	"category" : "Swamp",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SWMPTestEntryPoint",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

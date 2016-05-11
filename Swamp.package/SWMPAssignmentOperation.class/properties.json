@@ -1,0 +1,15 @@
+{
+	"category" : "Swamp",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"variable",
+		"value" ],
+	"name" : "SWMPAssignmentOperation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
