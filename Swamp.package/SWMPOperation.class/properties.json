@@ -6,11 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"selector",
-		"receiver",
-		"arguments" ],
-	"name" : "SWMPMessageSendOperation",
+		"resultVariable" ],
+	"name" : "SWMPOperation",
 	"pools" : [
 		 ],
-	"super" : "SWMPOperation",
+	"super" : "Object",
 	"type" : "normal" }

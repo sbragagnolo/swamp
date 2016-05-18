@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"variable",
-		"value" ],
-	"name" : "SWMPAssignmentOperation",
+		"temporaryVariableName" ],
+	"name" : "SWMPTemporaryVariableReadOperation",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "SWMPOperation",
 	"type" : "normal" }

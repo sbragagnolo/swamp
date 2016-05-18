@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"selector",
-		"receiver",
-		"arguments" ],
-	"name" : "SWMPMessageSendOperation",
+		"value",
+		"temporaryVariableName" ],
+	"name" : "SWMPTemporaryVariableWriteOperation",
 	"pools" : [
 		 ],
 	"super" : "SWMPOperation",

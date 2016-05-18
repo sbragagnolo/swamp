@@ -6,10 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"selector",
-		"receiver",
-		"arguments" ],
-	"name" : "SWMPMessageSendOperation",
+		"value",
+		"instanceVariableName",
+		"owner" ],
+	"name" : "SWMPInstanceVariableWriteOperation",
 	"pools" : [
 		 ],
 	"super" : "SWMPOperation",

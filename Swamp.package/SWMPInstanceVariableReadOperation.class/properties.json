@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"selector",
-		"receiver",
-		"arguments" ],
-	"name" : "SWMPMessageSendOperation",
+		"instanceVariableName",
+		"owner" ],
+	"name" : "SWMPInstanceVariableReadOperation",
 	"pools" : [
 		 ],
 	"super" : "SWMPOperation",

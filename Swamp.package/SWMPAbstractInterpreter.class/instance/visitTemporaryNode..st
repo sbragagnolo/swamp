@@ -1,3 +1,6 @@
 as yet unclassified
-visitTemporaryNode: aRBTemporaryNode 
-	^ self currentBlock variableNamed: aRBTemporaryNode name.
+visitTemporaryNode: aRBTemporaryNode
+	| operation |
+	operation := graphBuilder operationBuilder readTemporaryVariable: aRBTemporaryNode name.
+	self currentBlock addOperation: operation.
+	^ operation
