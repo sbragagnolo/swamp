@@ -1,15 +1,16 @@
 {
-	"category" : "Swamp-Test",
+	"category" : "Swamp",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"graphbuilder",
-		"test" ],
-	"name" : "SWMPMinimalTestCase",
+		"from",
+		"to",
+		"arguments" ],
+	"name" : "SWMPLink",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "Object",
 	"type" : "normal" }

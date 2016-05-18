@@ -1,12 +1,12 @@
 {
-	"category" : "Swamp",
+	"category" : "Swamp-Test",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"instanceVariable" ],
 	"name" : "SWMPTestEntryPoint",
 	"pools" : [
 		 ],
