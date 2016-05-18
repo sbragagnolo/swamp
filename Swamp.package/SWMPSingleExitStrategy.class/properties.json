@@ -6,12 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"inputArguments",
-		"operations",
-		"temporaries",
-		"exits",
-		"exitStrategy" ],
-	"name" : "SWMPBlock",
+		 ],
+	"name" : "SWMPSingleExitStrategy",
 	"pools" : [
 		 ],
 	"super" : "Object",
