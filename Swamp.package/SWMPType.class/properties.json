@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "SWMPSingleExitStrategy",
+		"smalltalkClasses" ],
+	"name" : "SWMPType",
 	"pools" : [
 		 ],
-	"super" : "SWMPExitStrategy",
+	"super" : "Object",
 	"type" : "normal" }

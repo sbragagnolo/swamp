@@ -1,3 +1,3 @@
 as yet unclassified
 currentReturn
-	^ currentFlowGraph returnBlock
+	^ self currentFlowGraph returnBlock

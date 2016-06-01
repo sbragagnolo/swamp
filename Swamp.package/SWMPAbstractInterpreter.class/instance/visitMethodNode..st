@@ -1,6 +1,14 @@
 as yet unclassified
 visitMethodNode: aRBMethodNode
-	currentFlowGraph := graphBuilder createMethodFlowGraph.
-	self pushBlock: currentFlowGraph startBlock.
+	| previousReturned |
+	self pushNewFlowGraph.
+	previousReturned := returned.
+	returned := false.
 	self interpret: aRBMethodNode body.
-	^ currentFlowGraph
+	
+	returned ifFalse: [
+		self visitReturnNode: (RBReturnNode value: (RBSelfNode named: #self)).
+	].
+	
+	returned := previousReturned.
+	^ self popFlowGraph

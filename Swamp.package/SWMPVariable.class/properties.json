@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"name" ],
+		"name",
+		"type" ],
 	"name" : "SWMPVariable",
 	"pools" : [
 		 ],

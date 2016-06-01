@@ -5,4 +5,4 @@ initialize
 	exits := OrderedCollection new.
 	operations := OrderedCollection new.
 	temporaries := OrderedCollection new. 
-	exitStrategy := SWMPSingleExitStrategy new.
+	self exitStrategy: SWMPSingleExitStrategy new.

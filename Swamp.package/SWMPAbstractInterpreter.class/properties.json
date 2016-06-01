@@ -7,8 +7,9 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"graphBuilder",
-		"currentFlowGraph",
-		"blockStack" ],
+		"blockStack",
+		"flowGraphStack",
+		"returned" ],
 	"name" : "SWMPAbstractInterpreter",
 	"pools" : [
 		 ],

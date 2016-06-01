@@ -1,14 +1,15 @@
 {
-	"category" : "Swamp",
+	"category" : "Swamp-Test",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "SWMPSingleExitStrategy",
+		"graphbuilder",
+		"test" ],
+	"name" : "SWMPHighLevelAnnotationTest",
 	"pools" : [
 		 ],
-	"super" : "SWMPExitStrategy",
+	"super" : "TestCase",
 	"type" : "normal" }

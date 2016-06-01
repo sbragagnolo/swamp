@@ -6,9 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"dependantVariable",
+		"joinBlock" ],
 	"name" : "SWMPIfStrategy",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "SWMPExitStrategy",
 	"type" : "normal" }
