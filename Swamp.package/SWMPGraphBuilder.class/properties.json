@@ -1,14 +1,13 @@
 {
-	"category" : "Swamp",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"abstractInterpreter" ],
-	"name" : "SWMPGraphBuilder",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "Swamp-FlowGraph",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"abstractInterpreter"
+	],
+	"name" : "SWMPGraphBuilder",
+	"type" : "normal"
+}

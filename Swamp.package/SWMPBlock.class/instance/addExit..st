@@ -1,3 +1,3 @@
-as yet unclassified
+adding
 addExit: aSWMPBlock
 	exits add: aSWMPBlock

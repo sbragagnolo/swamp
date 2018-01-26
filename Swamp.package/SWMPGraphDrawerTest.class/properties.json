@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Swamp-Drawing",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"graphbuilder",
+		"test",
+		"drawer"
+	],
+	"name" : "SWMPGraphDrawerTest",
+	"type" : "normal"
+}

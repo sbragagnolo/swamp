@@ -1,0 +1,3 @@
+creation
+asElement
+	^ self edge

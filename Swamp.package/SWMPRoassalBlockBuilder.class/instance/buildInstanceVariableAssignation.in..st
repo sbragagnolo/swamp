@@ -1,0 +1,3 @@
+as yet unclassified
+buildInstanceVariableAssignation: aSWMPTemporaryVariableWriteOperation in: aSWMPBoxedContainer
+	^ self buildPropertyLabelFor: aSWMPTemporaryVariableWriteOperation in: aSWMPBoxedContainer

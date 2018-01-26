@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Swamp-Drawing",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"from",
+		"to",
+		"arguments",
+		"edge",
+		"labeler",
+		"label"
+	],
+	"name" : "SWMPRoassalLink",
+	"type" : "normal"
+}

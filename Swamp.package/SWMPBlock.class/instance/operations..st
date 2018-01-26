@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 operations: aCollection
 	operations := aCollection

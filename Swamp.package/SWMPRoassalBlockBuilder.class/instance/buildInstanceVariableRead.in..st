@@ -1,0 +1,3 @@
+building
+buildInstanceVariableRead: aSWMPTemporaryVariableReadOperation in: aSWMPBoxedContainer
+	^ self buildPropertyLabelFor: aSWMPTemporaryVariableReadOperation in: aSWMPBoxedContainer

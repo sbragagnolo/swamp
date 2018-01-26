@@ -1,0 +1,4 @@
+initialization
+default
+
+	^ self 

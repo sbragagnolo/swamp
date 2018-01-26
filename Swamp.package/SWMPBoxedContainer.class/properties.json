@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Swamp-Drawing",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"box",
+		"group",
+		"interaction"
+	],
+	"name" : "SWMPBoxedContainer",
+	"type" : "normal"
+}

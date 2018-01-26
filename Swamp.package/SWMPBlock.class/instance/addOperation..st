@@ -1,3 +1,3 @@
-as yet unclassified
+adding
 addOperation: aSWMPOperation 
 	operations add: aSWMPOperation.

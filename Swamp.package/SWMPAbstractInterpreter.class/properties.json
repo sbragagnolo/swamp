@@ -1,17 +1,16 @@
 {
-	"category" : "Swamp",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Swamp-Visitors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"graphBuilder",
 		"blockStack",
 		"flowGraphStack",
-		"returned" ],
+		"returned"
+	],
 	"name" : "SWMPAbstractInterpreter",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

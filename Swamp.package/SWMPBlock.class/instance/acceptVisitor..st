@@ -1,3 +1,3 @@
-as yet unclassified
+visiting
 acceptVisitor: aVisitor
 	^ aVisitor visitBlock: self

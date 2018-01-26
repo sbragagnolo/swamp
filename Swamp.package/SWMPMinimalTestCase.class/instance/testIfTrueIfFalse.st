@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testIfTrueIfFalse
 	| methodGraph trueBlock falseBlock |
 	methodGraph := graphbuilder createGraphFrom: (MessageSend receiver: test selector: #ifTrueIfFalse).
@@ -7,7 +7,7 @@ testIfTrueIfFalse
 	
 	trueBlock := methodGraph startBlock exits first to.
 	falseBlock := methodGraph startBlock exits second to.
-	
+	trueBlock inspect.
 	self assert: trueBlock exits size equals: 1.
 	self assert: falseBlock exits size equals: 1.
 	self

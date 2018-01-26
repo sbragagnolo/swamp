@@ -1,15 +1,14 @@
 {
-	"category" : "Swamp-Operations",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "SWMPOperation",
+	"category" : "Swamp-Operations",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"value",
-		"temporaryVariableName" ],
+		"temporaryVariableName"
+	],
 	"name" : "SWMPTemporaryVariableWriteOperation",
-	"pools" : [
-		 ],
-	"super" : "SWMPOperation",
-	"type" : "normal" }
+	"type" : "normal"
+}

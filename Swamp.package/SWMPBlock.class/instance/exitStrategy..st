@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 exitStrategy: anExitStrategy 
 	anExitStrategy block: self. 
 	exitStrategy := anExitStrategy

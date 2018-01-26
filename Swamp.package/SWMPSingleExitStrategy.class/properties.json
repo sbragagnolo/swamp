@@ -1,14 +1,11 @@
 {
-	"category" : "Swamp",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "SWMPSingleExitStrategy",
-	"pools" : [
-		 ],
 	"super" : "SWMPExitStrategy",
-	"type" : "normal" }
+	"category" : "Swamp-FlowGraph",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SWMPSingleExitStrategy",
+	"type" : "normal"
+}

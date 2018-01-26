@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Swamp-Drawing",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"visitedElements",
+		"stack",
+		"builder"
+	],
+	"name" : "SWMPGraphDrawer",
+	"type" : "normal"
+}

@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "RTBuilder",
+	"category" : "Swamp-Drawing",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"titleBuilder",
+		"propertyBuilder",
+		"boxBuilder",
+		"lineShape",
+		"blockBuilder",
+		"circleBuilder"
+	],
+	"name" : "SWMPRoassalBlockBuilder",
+	"type" : "normal"
+}

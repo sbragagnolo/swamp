@@ -1,0 +1,3 @@
+accessing
+dependantVariable
+	^ dependantVariable

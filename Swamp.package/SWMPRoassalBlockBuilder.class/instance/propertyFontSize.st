@@ -1,0 +1,3 @@
+initialization
+propertyFontSize
+	^ 2

@@ -1,15 +1,14 @@
 {
-	"category" : "Swamp",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "SWMPExitStrategy",
+	"category" : "Swamp-FlowGraph",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"dependantVariable",
-		"joinBlock" ],
+		"joinBlock"
+	],
 	"name" : "SWMPIfStrategy",
-	"pools" : [
-		 ],
-	"super" : "SWMPExitStrategy",
-	"type" : "normal" }
+	"type" : "normal"
+}

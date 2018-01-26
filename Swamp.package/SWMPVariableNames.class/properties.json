@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "DynamicVariable",
+	"category" : "Swamp-Visitors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"current"
+	],
+	"name" : "SWMPVariableNames",
+	"type" : "normal"
+}

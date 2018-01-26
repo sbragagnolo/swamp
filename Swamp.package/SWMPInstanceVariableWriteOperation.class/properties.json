@@ -1,16 +1,15 @@
 {
-	"category" : "Swamp-Operations",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "SWMPOperation",
+	"category" : "Swamp-Operations",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"value",
 		"instanceVariableName",
-		"owner" ],
+		"owner"
+	],
 	"name" : "SWMPInstanceVariableWriteOperation",
-	"pools" : [
-		 ],
-	"super" : "SWMPOperation",
-	"type" : "normal" }
+	"type" : "normal"
+}
