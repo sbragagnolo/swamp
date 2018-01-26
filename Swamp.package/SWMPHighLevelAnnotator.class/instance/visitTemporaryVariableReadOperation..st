@@ -1,0 +1,4 @@
+visiting
+visitTemporaryVariableReadOperation: aSWMPTemporaryVariableReadOperation
+	aSWMPTemporaryVariableReadOperation resultVariable type
+		+ (self lookupTemporary: aSWMPTemporaryVariableReadOperation temporaryVariableName) type

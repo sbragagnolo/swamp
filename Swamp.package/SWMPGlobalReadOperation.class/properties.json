@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "SWMPOperation",
+	"category" : "Swamp-Operations",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"globalName"
+	],
+	"name" : "SWMPGlobalReadOperation",
+	"type" : "normal"
+}

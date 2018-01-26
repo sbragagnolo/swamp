@@ -2,8 +2,8 @@ visiting
 insertExitPointFrom: aSWMPBlock
 	| exitPoint |
 	exitPoint := SWMPExitPoint new.
-	(SWMPLink new
-		from: aSWMPBlock;
-		to: exitPoint;
-		arguments: #() yourself) acceptVisitor: self.
-	^ exitPoint
+	^ builder
+		buildLinkFrom: (aSWMPBlock acceptVisitor: self)
+		to: (exitPoint acceptVisitor: self)
+		arguments: #()
+		into: stack first

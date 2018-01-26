@@ -8,7 +8,8 @@
 	"instvars" : [
 		"startBlock",
 		"returnBlock",
-		"exceptionBlock"
+		"exceptionBlock",
+		"selector"
 	],
 	"name" : "SWMPMethodFlowGraph",
 	"type" : "normal"

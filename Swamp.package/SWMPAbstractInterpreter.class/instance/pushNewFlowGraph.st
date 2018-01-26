@@ -1,5 +1,7 @@
 as yet unclassified
 pushNewFlowGraph
-	flowGraphStack addLast: graphBuilder createMethodFlowGraph.
+	| flow |
+	flow := graphBuilder createMethodFlowGraph.
+	flowGraphStack addLast: flow.
 	self pushBlock: self currentFlowGraph startBlock.
 	^ self currentFlowGraph

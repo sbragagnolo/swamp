@@ -5,4 +5,5 @@ initialize
 	returnBlock := SWMPBlock new.
 	exceptionBlock := SWMPBlock new.
 	returnBlock addInputArgumentNamed: #return.
-"	startBlock createExitTo: returnBlock with: "(startBlock addInputArgumentNamed: #self)
+	startBlock addInputArgumentNamed: #self.
+	startBlock addInputArgumentNamed: #super

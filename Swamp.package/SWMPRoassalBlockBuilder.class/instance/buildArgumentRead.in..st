@@ -1,0 +1,3 @@
+building
+buildArgumentRead: aSWMPArgumentReadOperation in: aSWMPBoxedContainer
+	^ self buildPropertyLabelFor: aSWMPArgumentReadOperation in: aSWMPBoxedContainer

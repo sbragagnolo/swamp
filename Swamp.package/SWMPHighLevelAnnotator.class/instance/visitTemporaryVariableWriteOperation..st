@@ -1,0 +1,4 @@
+visiting
+visitTemporaryVariableWriteOperation: aSWMPTemporaryVariableWriteOperation 
+	
+	aSWMPTemporaryVariableWriteOperation resultVariable type + aSWMPTemporaryVariableWriteOperation value type

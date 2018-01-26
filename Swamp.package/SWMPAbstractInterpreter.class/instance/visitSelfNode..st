@@ -1,3 +1,5 @@
 as yet unclassified
-visitSelfNode: aRBSelfNode 
-	^ self currentBlock selfVariable
+visitSelfNode: aRBSelfNode
+	" this code was. self currentBlock selfVariable "
+	self flag: #DoesThisChangeMakeSense.
+	^ self currentFlowGraph self

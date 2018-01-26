@@ -1,3 +1,3 @@
 *Swamp-Roassal
 text
-	^ 'Method'  
+	^ selector  
